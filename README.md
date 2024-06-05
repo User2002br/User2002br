@@ -1,4 +1,4 @@
-## Seja Bem-Vindo 🙂
+## Seja Bem-Vindo!
 
 Me chamo Thiago, sou estudante de Sistemas de informação, cursando atualmente o 5° período, meu foco principal de carreira é Back-End.
 
