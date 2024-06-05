@@ -1,6 +1,6 @@
 ## Seja Bem-Vindo!
 
-Me chamo Thiago, sou estudante de Sistemas de informação, cursando atualmente o 5° período, meu foco principal de carreira é Back-End.
+Me chamo Thiago, sou estudante de Sistemas de informação, cursando atualmente o 5° períodoe e possuo foco na carreira Back-End como ramificação principal.
 
 
 <div style="display: inline_block"><br>
