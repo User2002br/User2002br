@@ -5,7 +5,6 @@ Me chamo Thiago, sou estudante de Sistemas de informação, cursando atualmente 
 ## Conhecimentos:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Thiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
