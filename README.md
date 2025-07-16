@@ -1,3 +1,3 @@
 ## Seja Bem-Vindo!
 
-Me chamo Thiago, sou estudante de Sistemas de informação, cursando atualmente o 5° período e possuo foco na carreira Back-End como ramificação principal.
+Olá! Eu sou Thiago Reina Gama, interessado por Análise de Dados 📊. Atualmente curso o 5° período na FAETERJ Paracambi e tenho interesse em transformar dados em insights que ajudam na tomada de decisões estratégicas.
